@@ -1,3 +1,5 @@
+Link: https://bubblegame-milandev.netlify.app/
+
 In this projects we had made one bubble then using javascript I made that one bubble in multiples using for loop.
 
 Then I used Math.floor(Math.random()*10) to display the random numbers in the bubbles and multiplyed by 10 so that the number should be less tha 10. 
